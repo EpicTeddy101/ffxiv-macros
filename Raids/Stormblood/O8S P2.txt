@@ -1,0 +1,13 @@
+■  ─ Celestriad   ┬■ Forsaken 1 ──
+　D3　　　        　 │Towers: DHD
+　D4　   ● 　  　   │Skulls: Closest tower
+　D1D2　 T+H　  │
+■  ───── Forsaken 2  ──────
+　Kefka: Just south of center
+　Tanks: W, Healers: E
+　　　　↑　　　 MT　　　　↑　　 　　　
+　　　　D3  　 OT ● H2　　D4　
+　　　　　　　　  H1　　　　　　　　　
+　　　　　　   ←D1D2→
+■  ──── Forsaken 3+4  ──────
+Confusion+Sleep: Same position as P1

@@ -1,0 +1,11 @@
+■   ─ Fire spread ──┬■ 1st Graven Image ──
+　　 　   　MT　　　  　 │　（Stack pairs）
+　　 　D1  ●　D2  　　│MT　　　●　　OT
+　　 D3　  ST　　D4　 │D1　 H1　H2　D2
+　　 　H1　　 H2　 　  │　　　D3　D4
+ ■ 3rd Graven Image ┼■ 5th Graven Image ──
+                 ↑      ↑              |          Sleep (R) - Mid
+    ←MT/D1    OT/D2→ | Confusion (L) - Cardinals:
+    ←H1/D3    H2/D4→ |                MT/D1
+                ↓       ↓              |       H1/D2 ● OT/D3 
+                                                              H2/D4

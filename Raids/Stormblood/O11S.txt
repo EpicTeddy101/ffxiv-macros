@@ -1,0 +1,14 @@
+【Flamethrowers】　|【1st Rocket Punch】
+　D3   　MT 　D4　　|　　　           MT/OT
+　H1　    ▲　  H2　　| 　H1/D3　 BOSS    H2/D4　
+　D1   　OT　  D2 　  |　                   D1/D2
+※Dodge clockwise   | ※D3/D4 swap if pairs are wrong
+※Relative to boss　  |　　　 　
+【Magnets】T+H→N or E/DPS→S or W
+【Chains of Memory】D3:West　D4:East(Rotate clockwise)
+Tanks+DPS→North(N/S towers are near center)or South(N/S towers near outer edge)
+【Pantokrator #2 Wave Cannons】
+　　MT　　　OT
+　　　　BOSS
+　D1/D3　D2/D4　※1st Wave Cannons:D1、H1、D2
+　　　H1/H2　　　 ※2nd Wave Cannons:D3、H2、D4
