@@ -1,0 +1,5 @@
+/p Divebomb Spots
+/p
+/p North Pattern: 2B
+/p North West Pattern: 3C
+/p Other Pattern: 4D
